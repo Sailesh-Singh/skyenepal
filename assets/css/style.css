@@ -1322,7 +1322,7 @@ section {
 }
 
 .team .member .member-img {
-    position: relative;
+    /* position: relative; */
     overflow: hidden;
 }
 
